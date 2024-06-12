@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pi_Todo</string>
+    <string name="introName">Pi To-Do</string>
+    <string name="introDesc">Effortlessly manage tasks with our intuitive Todo app. Stay organized, boost productivity, and achieve your goals—all in one place!</string>
+    <string name="getStartBtn">Get Started</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_notes">Notes</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_todo">Todo</string>
+</resources>

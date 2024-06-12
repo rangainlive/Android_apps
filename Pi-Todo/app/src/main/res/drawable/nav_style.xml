@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style android:name="BottomNavViewStyle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Customize background color -->
+    <item android:name="android:background">@color/your_background_color</item>
+    <!-- Customize text appearance -->
+    <item android:name="android:textAppearance">@style/BottomNavTextAppearance</item>
+    <!-- Customize item icon tint color -->
+    <item android:name="itemIconTint">@color/your_icon_tint_color</item>
+    <!-- Customize item text color -->
+    <item android:name="itemTextColor">@color/your_text_color</item>
+</style>
+
