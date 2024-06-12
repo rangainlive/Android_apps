@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/design_default_color_surface</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/pi_logo</item>
-        <item name="postSplashScreenTheme">@color/material_dynamic_neutral10</item>
-    </style>
-    <style name="Theme.BottomNav2" parent="android:Theme.Material.Light.NoActionBar" />
-</resources>
